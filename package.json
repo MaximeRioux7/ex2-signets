@@ -39,7 +39,7 @@
 			"last 1 safari version"
 		]
 	},
-	"homepage-inactif": "https://username.github.io/depot-gh/",
+	"homepage": "https://maximerioux7.github.io/ex2-signets/",
 	"devDependencies": {
 		"@types/sortablejs": "^1.10.6"
 	}
