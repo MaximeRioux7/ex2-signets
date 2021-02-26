@@ -1,6 +1,7 @@
 import Entete from './Entete';
 import ListeDossiers from './ListeDossiers';
 import BtnAjoutRessource from './BtnAjoutRessource';
+import '../style/Appli.scss';
 
 export default function Appli() {
   return (
